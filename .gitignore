@@ -1,0 +1,4 @@
+#ignore what we don't want to track
+
+nbproject/
+nbproject/*
